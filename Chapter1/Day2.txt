@@ -1,0 +1,21 @@
+1. * Safety and Security
+   
+   * Clarity
+
+   * Approachability
+
+   * Developer Experience
+
+   * Resource Oriented Programming
+
+
+
+2. * Better Safety and Security brings out confidence in someone who is new.
+   
+   * With Clarity, Approchability and Developer Experience, The smart contract can be understood 
+	
+     by some one who has least knowledge in programming. They can also start developing with ease,
+
+     making developement in cadence more attractive.
+     
+   

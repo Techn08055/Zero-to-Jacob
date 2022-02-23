@@ -1,0 +1,10 @@
+1. Block chain is an immutable, decentralized, highly secured data storage.
+
+2. Smart contracts are functions that enables some transactions in a blockchain if preset conditions
+   are met.
+
+3. Transactions are activities that  happens in a Blockchain. It always comes with a fee.
+
+   Scripts are used to view the state of bloack chain and it is free ;).
+
+
