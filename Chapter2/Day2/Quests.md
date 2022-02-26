@@ -2,4 +2,9 @@
       Note: Hey I tried putting the `changeGreeting` in script and it changed the value in console. So does that the mean the state of blockchain chenged and does it cost gas fee?
       ![image](https://user-images.githubusercontent.com/90955843/155646240-2fd975c6-566e-4a84-8e1d-e8db5f41e4d4.png)
       
- 2. 
+ 2.  `AuthAccount` refers to the account whose data is being accessed for making a transaction.
+
+ 3.  Both phases are used to change the state of blockchain by transaction.`prepare` phase  can access data in an account for an transaction but an `execute` phase annot access
+     the data in your account. Separation between the phases is purely logical.
+     
+ 4. 
