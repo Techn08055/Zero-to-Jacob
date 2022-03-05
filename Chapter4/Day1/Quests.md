@@ -17,3 +17,14 @@
    That is there for better security.?
 
 5. 
+Smart Contract
+
+![image](https://user-images.githubusercontent.com/90955843/156882296-013d7cf1-e4ac-4307-b6e7-9cfd155dd1e8.png)
+
+Transaction for save and load
+![image](https://user-images.githubusercontent.com/90955843/156882224-6b2a27b0-ae3f-4a02-95e1-69172ca4e755.png)
+
+Transaction for save and borrow
+![image](https://user-images.githubusercontent.com/90955843/156882204-7f6773fb-6348-4451-96c2-373e575c5a2f.png)
+
+https://play.onflow.org/0fa932ae-7d4b-4f05-9510-fa8f92806f12?type=account&id=d30d546d-70d9-48c9-917e-c70a4a0e58f2&storage=none
