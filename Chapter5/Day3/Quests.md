@@ -3,4 +3,4 @@
 
 2. `auth` is used to downcaste the reference to a more specific type. 
 
-3. 
+3. https://play.onflow.org/b083bad9-80a2-45ee-ab34-ce6621e28b1b
